@@ -1,0 +1,8 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('~/Images/BackgroundImage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed as the user scrolls */
+}
